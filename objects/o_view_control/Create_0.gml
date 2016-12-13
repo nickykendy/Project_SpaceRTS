@@ -1,0 +1,2 @@
+/// init
+viewspd = 5;
