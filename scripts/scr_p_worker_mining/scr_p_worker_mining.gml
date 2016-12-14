@@ -1,7 +1,9 @@
 /// scr_p_worker_mining()
 friction = 0.5;
+
+sprite_index = s_p_worker_mining;
 image_speed = 0.3;
-if (image_index == 0) image_index = 5;
+
 var canMine = true;
 
 if (carry >= 10 or dest.gold <= 0) {

@@ -723,18 +723,18 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 30,
+            "animationFPS": 1,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278190080
+                "Value": 4294967295
             },
-            "hspeed": 0,
-            "htiled": false,
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "hspeed": 0.01,
+            "htiled": true,
+            "spriteId": "cb99261a-a8c3-49b2-83d7-0140c4c82082",
             "stretch": false,
-            "userdefined_animFPS": false,
-            "vspeed": 0,
-            "vtiled": false,
+            "userdefined_animFPS": true,
+            "vspeed": 0.01,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }

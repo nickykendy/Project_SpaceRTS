@@ -1,7 +1,7 @@
 /// scr_p_worker_move()
 friction = 0;
+sprite_index = s_p_worker;
 image_speed = 0.5;
-if (image_index >= 4) image_index = 0;
 
 if (instance_exists(target)) {
 	motion_add(point_direction(x, y, target.x, target.y), acc);

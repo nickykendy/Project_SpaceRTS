@@ -1,9 +1,10 @@
 /// control
-if (tgt == 0) {
-	if (image_index >= 5) image_index = 0;
-} else if (tgt == 1) {
+if (tgt == 1) {
+	sprite_index = s_target_circle;
+	image_speed = 0.5;
 	image_xscale = 2;
 	image_yscale = 2;
-	image_speed = 0.2;
-	if (image_index >= 0 and image_index <= 5) image_index = 6;
+} else if (tgt == 0) {
+	sprite_index = s_target;
+	image_speed = 0.5;
 }

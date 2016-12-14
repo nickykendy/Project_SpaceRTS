@@ -1,7 +1,7 @@
 /// scr_p_worker_turnin()
 friction = 0.5;
+sprite_index = s_p_worker;
 image_speed = 0.5;
-if (image_index >= 4) image_index = 0;
 
 global.gold += carry;
 carry = 0;
