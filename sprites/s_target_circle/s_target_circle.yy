@@ -1,7 +1,7 @@
 {
     "id": "bc9e6d6c-1ad3-4c61-b758-ed44585b0c57",
     "modelName": "GMSprite",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "s_target_circle",
     "For3D": false,
     "HTile": false,

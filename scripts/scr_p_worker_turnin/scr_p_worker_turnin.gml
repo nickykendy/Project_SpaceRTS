@@ -13,6 +13,7 @@ if (target != -1 and instance_exists(target)) {
 var temp = instance_nearest(x, y, o_mine);
 if (temp.gold > 0) {
 	target = instance_create_layer(temp.x, temp.y, "ins_control", o_target);
+	target.visible = false;
 	target.tgt = 1;
 	state = "move";
 } else {

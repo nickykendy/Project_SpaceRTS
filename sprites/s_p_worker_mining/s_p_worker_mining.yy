@@ -1,7 +1,7 @@
 {
     "id": "2fb2de58-b294-4f7d-aad8-f1eb9e69c174",
     "modelName": "GMSprite",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "s_p_worker_mining",
     "For3D": false,
     "HTile": false,

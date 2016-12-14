@@ -23,12 +23,7 @@ if (canMine) {
 	
 	var temp = instance_nearest(x, y, o_p_base);
 	target = instance_create_layer(temp.x, temp.y, "ins_control", o_target);
+	target.visible = false;
 	target.tgt = 1;
 	state = "move";
 }
-
-	
-	
-	
-
-	

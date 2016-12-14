@@ -1,2 +1,2 @@
 /// init
-viewspd = 5;
+viewspd = 8;
