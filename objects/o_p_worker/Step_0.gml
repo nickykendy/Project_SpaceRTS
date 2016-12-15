@@ -10,3 +10,11 @@ if (state == "move") {
 } else if (state == "mining") {
 	scr_p_worker_mining();
 }
+
+if (instance_exists(target) and target != -1) {
+	if (target.tgt == 1) {
+		workState = true;
+	}
+} else {
+	workState = false;
+}

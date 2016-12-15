@@ -27,4 +27,4 @@ surface_reset_target();
 
 // Now draw the surface we have created in the room
 draw_surface(surf, 0, 0);
-gpu_set_blendmode(bm_normal);
+gpu_set_blendmode(bm_normal); 

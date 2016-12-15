@@ -2,6 +2,9 @@
 selected = false;
 state = "idle";
 foe = -1;
+for (var i=0; i<4; i++) {
+	slot[i] = false;
+}
 maxHp = argument0; //99999 unbreakable
 hp = maxHp;
 maxGold = argument1;

@@ -1804,6 +1804,25 @@
                 "resourcePath": "objects\\o_button\\o_button.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "a3b529d0-97c9-4bf8-bcd4-8fa09fdac858",
+            "Value": {
+                "id": "83669aea-30a7-4c14-b321-8deddc62468a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\\scr_p_worker_waiting\\scr_p_worker_waiting.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "room_order": [
@@ -1823,6 +1842,7 @@
         "dbd9af3e-44c7-432d-9ac4-01286d136943",
         "19b7211b-bd45-493d-be23-0886e53ae27a",
         "fd19d1e5-5fae-4e64-ae1b-0b197c6d87ad",
+        "a3b529d0-97c9-4bf8-bcd4-8fa09fdac858",
         "94cc6dc7-2096-4086-81e9-bff432e2184a",
         "4a06ee9a-2d0d-4612-8266-60b4d06ab25c",
         "75704706-8d1c-442e-af80-959ff2be27d2",

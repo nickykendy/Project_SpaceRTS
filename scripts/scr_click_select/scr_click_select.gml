@@ -14,4 +14,6 @@ if (dis <= 10) {
 	} else {
 		selected = false;
 	}
+} else {
+	selected = false;
 }

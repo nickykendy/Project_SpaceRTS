@@ -26,4 +26,4 @@ if (instance_exists(target)) {
 	}
 }
 
-if (speed > spd) speed = spd; 
+if (speed > spd) speed = spd;
