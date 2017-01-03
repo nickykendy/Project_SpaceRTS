@@ -1,7 +1,7 @@
 {
     "id": "2fb2de58-b294-4f7d-aad8-f1eb9e69c174",
     "modelName": "GMSprite",
-    "mvc": "1.1",
+    "mvc": "1.11",
     "name": "s_p_worker_mining",
     "For3D": false,
     "HTile": false,
@@ -10,7 +10,7 @@
     "bbox_left": 3,
     "bbox_right": 20,
     "bbox_top": 3,
-    "bboxmode": 0,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "frames": [

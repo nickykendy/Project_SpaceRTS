@@ -4,7 +4,7 @@ image_index = 0;
 image_speed = 0;
 
 if (instance_exists(foe) and foe != -1) {
-	if (distance_to_point(foe.x, foe.y) <= 256) {
+	if (distance_to_point(foe.x, foe.y) <= 225) {
 		state = "chase";
 	}
 }
